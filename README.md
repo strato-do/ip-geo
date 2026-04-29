@@ -6,7 +6,7 @@ with city-level precision. Rebuilt weekly.
 ## Download
 
 [Latest release](https://github.com/strato-do/ip-geo/releases/latest) —
-`ip-geo.mmdb` and `SHA256SUMS`.
+`ip-geo.mmdb`.
 
 ## Usage
 
