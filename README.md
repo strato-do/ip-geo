@@ -5,8 +5,12 @@ with city-level precision. Rebuilt weekly.
 
 ## Download
 
-[Latest release](https://github.com/strato-do/ip-geo/releases/latest) —
-`ip-geo.mmdb`.
+[Latest release](https://github.com/strato-do/ip-geo/releases/latest)
+
+- `ip-geo.mmdb` — Recommended. Uses ip-geo's stable flat field names;
+  see the example data format [below](#output).
+- `ip-geo-maxmind.mmdb` — For apps that support MMDB but expect
+  MaxMind-style records, such as Wireshark.
 
 ## Usage
 
